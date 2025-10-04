@@ -3,8 +3,8 @@ import json
 import shutil
 from bs4 import BeautifulSoup
 
-HTML_FILE = "Atividades _ Diêgo Oliveira _ LinkedIn.html"
-FILES_DIR = "Atividades _ Diêgo Oliveira _ LinkedIn_files"
+HTML_FILE = "(5) Atividades _ Diêgo Oliveira _ LinkedIn.html"
+FILES_DIR = "(5) Atividades _ Diêgo Oliveira _ LinkedIn_files"
 IMAGES_DIR = "linkedin_images"
 OUTPUT_JSON = "linkedin_posts.json"
 
